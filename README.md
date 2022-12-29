@@ -1,4 +1,1 @@
-# NTW-Preference.script
-Modified preferences.script file for Napoleon: TOTAL WAR
-
-I just save it here because convenient if I want to reinstall that game for the 400th time in order to download mods
+# What are you doing, this is a setting for a video game get outta here
